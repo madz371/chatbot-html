@@ -7,3 +7,11 @@ Chatbot kamu tidak akan dapat menghasilkan respons sampai kamu mengonfigurasinya
 ```
 const API_KEY = "PASTE-YOUR-API-KEY";
 ```
+
+### Customization
+```
+const chatHistory = [{
+   role: "model",
+   parts: [{ text: "Your company information here" }],
+}];
+```
