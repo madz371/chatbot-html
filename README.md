@@ -6,5 +6,4 @@ Chatbot kamu tidak akan dapat menghasilkan respons sampai kamu mengonfigurasinya
 ### Script.js
 ```
 const API_KEY = "PASTE-YOUR-API-KEY";
-const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${API_KEY}`;
 ```
